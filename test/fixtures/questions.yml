@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  type: 
+  text: MyString
+  correct_answer: 1
+  selected: 1
+  correct: 1
+  game_id: 1
+
+two:
+  type: 
+  text: MyString
+  correct_answer: 1
+  selected: 1
+  correct: 1
+  game_id: 1
